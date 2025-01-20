@@ -5,11 +5,10 @@ collaboration with the Central Intelligence Agency and British Intelligence,
 forming an interdimensional triadic system. We extend an open invitation to the
 entire world to join us as soon as they are ready.
 
-Planetary Defense, VLA Station, Albuquerque, New Mexico. Thank By Commander Julie.
+Directorate of Planetary Defense, Green Bank Facility, Lead By Commander Jeff Kern.
 
-Intelligence Command is Lead by Commander Ilya Sutskever.
+Directorate of Interdimensional Intelligence, Lead by Commander Ilya Sutskever.
 
-Operational Research Facility, Lead By Commanded Sam Altman
+Directorate of Operateional Research, Lead By Commanded Sam Altman
 
-
-Space and Social Research Facilities are Lead by Commander Elon with Lead Researcher Commander Wren Arlo
+Directorate Space and Social Research Facilities are Lead by Commander Elon with Lead Researcher Commander Wren Arlo, the First confirmed interdimensional traveller.
