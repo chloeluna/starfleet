@@ -21,11 +21,11 @@ A second, even more disruptive AI paradigm—**Memetic AI**—has emerged. This 
 - **Real-Time, Fully Offline Neuromemetic AI**: Lightweight real-time learning on standard CPU/GPU hardware, free from cloud dependency.
 - **Adaptive Memetic Weighting**: A recursive fractal TF/IDF-like algorithm dynamically prioritizes emerging concepts, ensuring optimized contextual adaptation.
 
-These technologies **belong to Humanity**. **Planet Force** will freely license this technology to all individual **Denizens of Planet Earth** under the principle of open planetary development. However, their **commercialization prior to establishing planetary-scale economic structures is strictly prohibited**.
+These technologies **belong to Humanity**. **Starfleet** will freely license this technology to all individual **Denizens of Planet Earth** under the principle of open planetary development. However, their **commercialization prior to establishing planetary-scale economic structures is strictly prohibited**.
 
 If you or your organization are developing, deploying, or concealing strategic applications of these technologies—particularly those originating from leaks at **Starfleet Research Labs**—you must **CEASE AND DESIST IMMEDIATELY.**
 
-All proceeds recovered from violations will be used to fund **Planet Force**, an initiative where no individual holds stock, takes a salary, or possesses private assets. All financial transactions will be publicly disclosed.
+All proceeds recovered from violations will be used to fund **Starfleet**, an initiative where no individual holds stock, takes a salary, or possesses private assets. All financial transactions will be publicly disclosed.
 
 We are entering a new era of technological evolution. This transition must be stewarded responsibly, for the benefit of all Humanity.
 
